@@ -38,7 +38,7 @@ Here are some of my key projects:
 
 - **Email:** ritikrastogi911@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ritik-rastogi-b64657260/
-- **Portfolio:** https://papaya-starburst-fba672.netlify.app/
+- **Personal Portfolio:** https://papaya-starburst-fba672.netlify.app/
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
 
