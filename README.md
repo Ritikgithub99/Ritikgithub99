@@ -15,24 +15,24 @@ Welcome to my GitHub profile! I am a passionate web developer with experience in
 
 Here are some of my key projects:
 
-### 1. [Project Name](link-to-project-repo)
+### 1. to-do-list
    - **Description:** Briefly describe what the project does, its purpose, and key features.
-   - **Technologies Used:** List the tech stack used in the project (e.g., React, Node.js, MongoDB).
+   - **Technologies Used:** Html, Css, Javascript
    - **Live Demo:** [Live Link](link-to-live-demo)
 
-### 2. [Project Name](link-to-project-repo)
+### 2. tictactoe
    - **Description:** Describe the project, its use case, and functionalities.
-   - **Technologies Used:** List the tech stack used (e.g., Angular, Firebase, Express).
-   - **Live Demo:** [Live Link](link-to-live-demo)
+   - **Technologies Used:** Html, Css, Javascript
+   - **Live Demo:** 
 
-### 3. [Project Name](link-to-project-repo)
+### 3. calculator 
    - **Description:** Provide details about this project and what makes it unique.
-   - **Technologies Used:** List the tech stack used (e.g., Django, jQuery, PostgreSQL).
-   - **Live Demo:** [Live Link](link-to-live-demo)
-
+   - **Technologies Used:** Html, Css, Javascript
+   - **Live Demo:** https://ritikgithub99.github.io/calculator/
+     
 ## 📈 GitHub Stats
 
-![Your GitHub stats] ![ritikgithub99's Stats](https://github-readme-stats.vercel.app/api?username=ritikgithub99&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+ ![ritikgithub99's Stats](https://github-readme-stats.vercel.app/api?username=ritikgithub99&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ## 📫 Contact Me
 
