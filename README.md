@@ -15,18 +15,13 @@ Welcome to my GitHub profile! I am a passionate web developer with experience in
 
 Here are some of my key projects:
 
-### 1. to-do-list
-   - **Description:** Briefly describe what the project does, its purpose, and key features.
+### 1. to-do-list 
+   - **Description:** A to-do list is a tool for organizing tasks and tracking their completion to manage daily activities efficiently.
    - **Technologies Used:** Html, Css, Javascript
-   - **Live Demo:** [Live Link](link-to-live-demo)
+   - **Live Demo:** https://ritikgithub99.github.io/to-do-list/
 
-### 2. tictactoe
-   - **Description:** Describe the project, its use case, and functionalities.
-   - **Technologies Used:** Html, Css, Javascript
-   - **Live Demo:** 
-
-### 3. calculator 
-   - **Description:** Provide details about this project and what makes it unique.
+### 2. calculator 
+   - **Description:** The calculator offers a simple and interactive interface for performing basic arithmetic operations using HTML, CSS, and JavaScript.
    - **Technologies Used:** Html, Css, Javascript
    - **Live Demo:** https://ritikgithub99.github.io/calculator/
      
