@@ -28,9 +28,9 @@ Here are some of my key projects:
 ## 📈 GitHub Stats
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![ritikgithub99's Stats](https://github-readme-stats.vercel.app/api?username=ritikgithub99&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![ritikgithub99's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritikgithub99&theme=vue-dark&hide_border=false)
+![ritikgithub99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikgithub99&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 📫 Contact Me
