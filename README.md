@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate web developer with experience in
 
 - **Languages:** HTML, CSS, JavaScript, Java, Python
 - **Databases:** MySQL, Firebase
-- **Tools & Platforms:** Git, GitHub, Netlify, VS Code
+- **Tools & Platforms:** Netlify, VS Code
 - **Version Control:** Git & GitHub
 
 ## 📂 Projects
