@@ -21,9 +21,8 @@ Here are some of my key projects:
    - **Live Demo:** https://ritikgithub99.github.io/to-do-list/
 
 ### 2. calculator 
-   - **Description:** The calculator offers a simple and interactive interface for performing basic arithmetic operations using HTML, CSS, and JavaScript.
-   - **Technologies Used:** Html, Css, Javascript
-   - **Live Demo:** https://ritikgithub99.github.io/calculator/
+   - **Description:** The calculator offers a simple and interactive interface for performing basic arithmetic operations using Python.
+   - **Technologies Used:** Python
      
 ## 📈 GitHub Stats
 
