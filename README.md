@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate web developer with experience in
 
 ## 🚀 Skills
 
-- **Languages:** HTML, CSS, JavaScript, Java, Python
+- **Languages:** HTML, CSS, JavaScript, Python
 - **Databases:** MySQL, Firebase
 - **Tools & Platforms:** Netlify, VS Code
 - **Version Control:** Git & GitHub
